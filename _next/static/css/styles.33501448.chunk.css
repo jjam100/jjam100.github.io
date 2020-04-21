@@ -878,7 +878,7 @@ ul.no-disc {
   margin: 0 auto; }
   @media (max-width: 500px) {
     .container {
-      width: 300px; } }
+      width: 310px; } }
   @media (min-width: 501px) and (max-width: 900px) {
     .container {
       width: 500px; } }
